@@ -1,0 +1,22 @@
+.demo_icon{
+    
+    translate: 50px;
+    visibility:hidden;
+}
+
+
+.demo:hover .demo_icon{
+    background-color:white;
+    translate: -5px;
+    transition: 1s;
+    visibility: visible;
+}
+
+
+
+
+
+
+
+
+
